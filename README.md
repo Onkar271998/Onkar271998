@@ -64,6 +64,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar271998&theme=dark" alt="Onkar271998" /></p>
 <br>
 
+<p >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Onkar271998&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="Onkar271998" height="139"/>
+  
+</p>
+
+
+
+
+
+
+
+
+
+
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
@@ -81,3 +95,12 @@
     </a>
 </p>
 <br>
+    
+    
+    
+    
+   
+    
+    
+    
+    
