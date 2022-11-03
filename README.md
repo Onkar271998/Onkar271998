@@ -97,6 +97,15 @@
 <br>
     
     
+   
+  <h3>Here's a random developer joke for you XD.</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=react" alt="Jokes Card" />
+</div>
+<p align="center">
+  <code><h2>Refresh the page for a new joke</h2></code>
+</p>
+    
+    
     
     
    
