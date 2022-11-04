@@ -96,6 +96,10 @@
 </p>
 <br>
     
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Onkar271998&theme=dark" alt="OnkarDeshmukh" /></p>
+<br>
+<img src="https://activity-graph.herokuapp.com/graph?username=Onkar271998&theme=xcode" height ="307"/>
+    
     
    
   <h3>Here's a random developer joke for you XD.</h3>
